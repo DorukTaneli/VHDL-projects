@@ -1,0 +1,33 @@
+NET "Sev_Seg_out<0>" LOC="P64";
+NET "Sev_Seg_out<1>" LOC="P98";
+NET "Sev_Seg_out<2>" LOC="P73";
+NET "Sev_Seg_out<3>" LOC="P72";
+NET "Sev_Seg_out<4>" LOC="P65";
+NET "Sev_Seg_out<5>" LOC="P62";
+NET "Sev_Seg_out<6>" LOC="P71";
+
+NET "V<0>" LOC="P15";
+NET "V<1>" LOC="P12";
+NET "V<2>" LOC="P5";
+NET "V<3>" LOC="P4";
+
+NET "W<0>" LOC="P94";
+NET "W<1>" LOC="P90";
+NET "W<2>" LOC="P88";
+NET "W<3>" LOC="P85";
+
+NET "S<0>" LOC="P82";
+NET "S<1>" LOC="P78";
+
+NET "M" LOC="P37";
+
+NET "CarryIn" LOC="P32";
+
+NET "CarryOut" LOC="P84";
+
+NET "FB<3>" LOC="P3";
+NET "FB<2>" LOC="P6";
+NET "FB<1>" LOC="P13";
+NET "FB<0>" LOC="P16";
+
+NET "Negative" LOC="P77";
