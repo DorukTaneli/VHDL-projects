@@ -1,0 +1,3 @@
+net "switch" loc = "P15";
+net "seatBelt" loc = "P12";
+net "ignition" loc = "P16";
