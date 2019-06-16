@@ -1,0 +1,45 @@
+NET "MCLK"	LOC = "P40";	# CLOCK
+
+NET "Badd"	LOC = "P32";  	# BTN-0
+NET "Bsub"	LOC = "P37";  	# BTN-1
+NET "Bneg"	LOC = "P33";  	# BTN-2
+NET "Bxor"	LOC = "P36";  	# BTN-3
+NET "Band"	LOC = "P34";  	# BTN-4
+NET "Bor"	LOC = "P35";  	# BTN-5
+
+NET "Start" LOC = "P78";
+
+NET "inp<0>"	LOC = "P15";	# SW0
+NET "inp<1>"	LOC = "P12";	# SW1
+NET "inp<2>"	LOC = "P5";		# SW2
+NET "inp<3>"	LOC = "P4";		# SW3
+NET "inp<4>"	LOC = "P94";	# SW4
+NET "inp<5>"	LOC = "P90";	# SW5
+NET "inp<6>"	LOC = "P88";	# SW6
+NET "inp<7>"	LOC = "P85";	# SW7
+
+NET "outp<0>"	LOC = "P16";	# LED0
+NET "outp<1>"	LOC = "P13";	# LED1
+NET "outp<2>"	LOC = "P6";		# LED2
+NET "outp<3>"	LOC = "P3";		# LED3
+NET "outp<4>"	LOC = "P93";	# LED4
+NET "outp<5>"	LOC = "P89";	# LED5
+NET "outp<6>"	LOC = "P86";	# LED6
+NET "outp<7>"	LOC = "P84";	# LED7
+
+NET "Anodes<0>"  LOC = "P50"  ;
+NET "Anodes<1>"  LOC = "P49"  ;
+NET "Anodes<2>"  LOC = "P52"  ;
+NET "Anodes<3>"  LOC = "P56"  ;
+NET "Anodes<4>"  LOC = "P59"  ;
+NET "Anodes<5>"  LOC = "P57"  ;
+NET "Anodes<6>"  LOC = "P60"  ;
+NET "Anodes<7>"  LOC = "P61" ;
+
+NET "sevenSegOut(0)" LOC ="P64";
+NET "sevenSegOut(1)" LOC ="P98";
+NET "sevenSegOut(2)" LOC ="P73";
+NET "sevenSegOut(3)" LOC ="P72";
+NET "sevenSegOut(4)" LOC ="P65";
+NET "sevenSegOut(5)" LOC ="P62";
+NET "sevenSegOut(6)" LOC ="P71";
